@@ -6,7 +6,7 @@
 
 [Глава 1. Начало работы с C++](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Setting-Out-to-C++)
 
-Глава 2. Приступаем к изучению C++
+[Глава 2. Приступаем к изучению C++](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Dealing-with-data)
 
 Глава 3. Работа с данными
 
