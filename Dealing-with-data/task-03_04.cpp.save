@@ -1,0 +1,25 @@
+#include <iostream>
+
+void time(long);
+
+int main()
+{
+	using namespace std;
+
+	long seconds;
+
+	cout << "Enter the nu seconds: ";
+	cin >> seconds;
+
+	return 0;
+}
+
+void time(long sec)
+{
+	int days, hours, minutes, seconds;
+	const int SEC_IN_MIN = 60;
+	const int MIN_IN_HOUR = 60;
+	const int HOUR_IN_DAY = 24;
+
+	minutes = 
+}

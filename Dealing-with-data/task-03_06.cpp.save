@@ -1,0 +1,13 @@
+#include <iostream>
+
+int main()
+{
+	using namespace std;
+
+	int kilometer, liter;
+
+	cout << "Enter the number of kilometers: ";
+	cin >> kilometre;
+	cout << ""
+	return 0;
+}
