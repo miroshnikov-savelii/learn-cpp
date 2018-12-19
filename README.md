@@ -10,7 +10,7 @@
 
 [Глава 3. Работа с данными](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Dealing-with-data)
 
-Глава 4. Составные типы
+[Глава 4. Составные типы](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Compound-types)
 
 Глава 5. Циклы и выражения отношений
 
