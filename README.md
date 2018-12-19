@@ -4,11 +4,11 @@
 **Мои ответы на задачи из книги " Язык программирования C++"**
 
 
-[Глава 1. Начало работы с C++](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Setting-Out-to-C++)
+Глава 1. Начало работы с C++
 
-[Глава 2. Приступаем к изучению C++](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Dealing-with-data)
+[Глава 2. Приступаем к изучению C++](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Setting-Out-to-C++)
 
-Глава 3. Работа с данными
+[Глава 3. Работа с данными](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Dealing-with-data)
 
 Глава 4. Составные типы
 
