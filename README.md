@@ -12,7 +12,7 @@
 
 [Глава 4. Составные типы](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Compound-types)
 
-Глава 5. Циклы и выражения отношений
+[Глава 5. Циклы и выражения отношений](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Loops-and-Relational-Expressions)
 
 Глава 6. Операторы ветвления и логические операции
 
