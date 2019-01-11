@@ -14,7 +14,7 @@
 
 [Глава 5. Циклы и выражения отношений](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Loops-and-Relational-Expressions)
 
-Глава 6. Операторы ветвления и логические операции
+[Глава 6. Операторы ветвления и логические операции](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Branching-Statements-and-Logical-Operators)
 
 Глава 7. Функции как программные модули C++
 
