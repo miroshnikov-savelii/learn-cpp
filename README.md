@@ -16,7 +16,7 @@
 
 [Глава 6. Операторы ветвления и логические операции](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Branching-Statements-and-Logical-Operators)
 
-Глава 7. Функции как программные модули C++
+[Глава 7. Функции как программные модули C++](https://github.com/miroshnikov-savelii/learn-cpp/tree/master/Functions:-%20C%2B%2B's-Programming-Modules)
 
 Глава 8. Дополнительные сведения о функциях
 
